@@ -9,7 +9,7 @@ import user_4 from "../../assets/user-4.png";
 
 const Testimonials = () => {
   const slider = useRef();
-  let tx = 0; //tx means translateX
+  let tx = 0; 
 
   const slideForward = () => {
     if (tx > -50) {
