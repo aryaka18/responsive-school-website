@@ -1,8 +1,14 @@
-# React + Vite
+Description:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+jSchool is a responsive school website project, built with React JS + vite including email service api. It aims to provide a user-friendly and accessible online platform for schools, catering to both desktop and mobile users.
 
-Currently, two official plugins are available:
+Current Status:
+- The project is currently under development with a focus on achieving full responsiveness across various devices and screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+- Responsive Design: The website is designed to adapt seamlessly to different screen resolutions, ensuring optimal user experience on all devices.
+- React JS Framework: Built with the powerful React JS framework for efficient and maintainable development.
+- Web3forms: Free contact form API to send form submissions data to email.
+
+Future Plans:
+- Complete Responsiveness: Finalize the responsive design implementation to ensure consistent performance across all devices.
